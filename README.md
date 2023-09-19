@@ -44,6 +44,7 @@ Junior Software Tester with strong attention to detail. Since I started testing,
   <img src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200" alt="swagger" width="40" height="40"/>&nbsp
   <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40"/>&nbsp;
+ <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zAdmQefuHVo6KdEgr9QXTQ.png" height="40"/>&nbsp;
 </div>
 
 ---
